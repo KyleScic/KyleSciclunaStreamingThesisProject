@@ -1,8 +1,7 @@
+Google Drive link for the models and detailed files : https://drive.google.com/drive/folders/130vPK51zWppSlZNKi2bjA1Q3mz6VYVSd?usp=sharing
+
+
 # Streaming Automatic Speech Recognition for Maltese
-
-
-
-
 ## Repository structure
 
 ```
